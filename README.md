@@ -30,7 +30,7 @@
 | Assignment 3 | Practice taking function as input in ML  |
 | Assignment 4 | Intro to Racket syntax |
 | Assignment 5 | Implement your own toy Language |
-| Assignment 6 | NA |
+| Assignment 6 | Subclass in Ruby, Tetris Game |
 | Assignment 7 | NA |
 | Assignment 8 | NA |
 | Assignment 9 | NA |
