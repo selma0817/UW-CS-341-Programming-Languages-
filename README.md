@@ -13,7 +13,10 @@
    
 
 
-
+### Part C:
+1. Dynamically-typed Object-Oriented Programming in Ruby
+2. OOP vs. Functional decomposition, multiple inheritance, mixins, ...
+3. Subtyping; generics vs. subtyping
 
 
 
@@ -31,7 +34,6 @@
 | Assignment 4 | Intro to Racket syntax |
 | Assignment 5 | Implement your own toy Language |
 | Assignment 6 | Subclass in Ruby, Tetris Game |
-| Assignment 7 | NA |
-| Assignment 8 | NA |
-| Assignment 9 | NA |
+| Assignment 7 | Extend interpreter for small 'language' |
+
 ---
