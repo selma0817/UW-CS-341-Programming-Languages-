@@ -14,9 +14,9 @@
 
 
 ### Part C:
-1. Dynamically-typed Object-Oriented Programming in Ruby
-2. OOP vs. Functional decomposition, multiple inheritance, mixins, ...
-3. Subtyping; generics vs. subtyping
+1. Dynamically-typed Object-Oriented Programming in Ruby (HW6)
+2. OOP vs. Functional decomposition, multiple inheritance, mixins, ... (HW7)
+3. Subtyping; generics vs. subtyping (Exam2)
 
 
 
